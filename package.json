@@ -1,0 +1,18 @@
+{
+  "name": "saa10-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวย2ตัวจ่าย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวย2ตัวจ่าย",
+"หวยหุ้น",
+"โปรโมชั่น lottovip",
+"เว็บหวยที่มีทุกหวย",
+"หวยเลขอะไรดี"
+],
+  "repository": "https://github.com/setteebet/saa10-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
